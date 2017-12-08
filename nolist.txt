@@ -1,0 +1,104 @@
+--------------
+db.getCollection('crawleddata').aggregate( 
+  { 
+	$group : {_id : "$rayon", total : { $sum : 1 }}
+    }
+)
+db.getCollection('crawleddata').find({geocodedAddress: null, services: []})
+
+db.getCollection('crawleddata').find({services: { $ne: [] }})
+--------services---------
+
+çiscka dmodorov
+------------
+http://xn--80aefarmqqabzm8bt0e.com.ua/%D0%B4%D1%8B%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D1%8B%20
+http://stirka-prachka.kiev.ua/#services
+http://kiev.art-light.com.ua/
+http://kiev-alp.com.ua/
+ http://slavutich-service.kiev.ua/#
+ http://autoclean.dn.ua/
+ http://vasha-xata.kiev.ua/
+ http://www.master-ognya.com.ua/nashi-uslugi.html
+ http://sajotrus.com.ua/
+ http://www.usps.com.ua/
+ http://sajotrus.com.ua/
+
+ услуги глажки Киев
+ http://bolla.kiev.ua/uk/bolla_services/khimchistka/
+ http://prachka.in.ua/
+ http://www.masterhouse.com.ua/home.php
+ http://ukrhimka.kiev.ua/index.php?page=uslugi
+
+ "мойка пола Киев"
+ http://ytuzhka.ua/#services-mob"
+ http://www.lm-cleaning.com/index_2.html
+
+ moyka maxhin
+ http://www.icarwash.com.ua/
+ http://avtomoyka.in.ua/
+ http://www.avtobanya.com.ua/
+ http://www.autoclean.org.ua/
+ http://p53.kiev.ua/#services
+ http://avtomoyka-carwash.kiev.ua/pomyt-mashinu/
+ http://royalcarwash.com.ua/services#
+
+ moyka narujnoy reklami
+ http://www.neonplast.com.ua/uslugi/
+
+ чистка радиатора Киев
+ http://sanremont.kiev.ua/zamena-batarey
+ http://www.prosto-chisto.kiev.ua/%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8-%D1%85%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8/
+
+ уборка яхт и катеров Киев
+ http://klining.pp.ua/
+ http://premium-cleaning.in.ua/#uslugi
+
+
+ moyka okon kiev
+ http://www.ds-ukraine.com/#!services/c1x9v
+ http://www.topcleaner.com.ua/
+
+
+устранение запахов Киев"
+http://ecosystems.com.ua/nashi-uslugi.html
+ http://zapaxov.net/services
+
+"услуги горничной (домработницы) Киев"
+http://nadejda.kiev.ua/index.php/uslugi
+http://baby-sitter.com.ua/services
+http://stillphoto.ru/
+http://sitter.com.ua/
+http://www.moya-semya.com.ua/
+http://hostess.at.ua/
+http://amalco.ua/
+http://personal-vip.kiev.ua/
+http://maids.ua/uslugi
+http://www.pchelka.kiev.ua/domrabotnica/
+http://abc-f.com.ua/sidelka#close
+http://c-house.com.ua/uslugi
+ 
+"химчистка Киев"
+http://shtor.kiev.ua/
+http://mistermayster.com/uslugi
+http://www.cinderella.cc.ua/kojast.html
+
+
+
+ADD chsitka kondisenorov
+------------------------
+http://climat-control.kiev.ua/
+http://cair.com.ua/
+
+
+add pest control
+http://www.profdezcontrol.com/index.php?p=2
+ 
+
+ADD xhimcistake details
+http://www.beaver-group.com.ua/
+
+
+add 
+ПОЛИРОВКА КУЗОВА
+Озонирование  - Дезинфекция-Озоном
+

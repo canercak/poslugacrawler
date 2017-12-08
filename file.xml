@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://posluga.ua/sitemap-0.xml</loc>
+    <lastmod>2016-11-29T21:24:21Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://posluga.ua/sitemap-1.xml</loc>
+    <lastmod>2016-11-29T21:24:23Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://posluga.ua/sitemap-2.xml</loc>
+    <lastmod>2016-11-29T21:24:24Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://posluga.ua/sitemap-3.xml</loc>
+    <lastmod>2016-11-29T21:24:26Z</lastmod>
+  </sitemap>
+</sitemapindex>
